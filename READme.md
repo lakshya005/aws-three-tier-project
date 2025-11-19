@@ -8,7 +8,8 @@ Project Architecture
 
 The architecture consists of three distinct tiers, all deployed within a custom Amazon VPC spanning two Availability Zones (AZs) for high availability and fault tolerance.
 
-(Image from "5 AWS Projects To Get You Hired" PDF)
+<img width="1280" height="582" alt="image" src="https://github.com/user-attachments/assets/bf19bd05-1af1-4883-b705-fcc4c59a1921" />
+
 
 1. Presentation Tier (Public)
 
